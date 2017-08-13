@@ -9,8 +9,7 @@ This Java desktop application displays popups from the notification panel (syste
 To run the app, ensure that you have Java runtime (JRE) and run the command.
   java -jar NetCheck.jar
 
-To build the app, execute the following command to download the source code.
-
+Execute the following command to download the source code.
   git clone https://github.com/vsubhash/netcheck-j2se.git
 
 
